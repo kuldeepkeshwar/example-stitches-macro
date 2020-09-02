@@ -1,5 +1,4 @@
 import React from "react";
-import "./styles.css";
 import { createStyled } from "./stitches.macro";
 
 const { styled } = createStyled({});
